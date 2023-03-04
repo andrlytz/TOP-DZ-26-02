@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 0 0 1px rgb(44, 37, 37);
+    background-image: url(https://www.mobison.it/wp-content/uploads/2022/02/MooN-square.png);
+    background-size: 100%;
+    background-attachment: fixed;
+    text-shadow: 0 0 2px rgb(55, 23, 23);
+    
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.car-one {
+    float: left;
+    margin: 0 30px 20px;
+    width: 470px;
+    box-shadow: -10px 10px 30px black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+li {
+    margin-top: 20px;
+    font-size: 20px;
+    color: rgb(34, 19, 19);
+    font-weight: 700;
+    font-style: italic;
+}
+
+a {
+    display: block;
+}
+
+a img {
+    display: block;
+    height: 100px;
+    margin: 50px  auto;
+}
+.ch-r {
+    margin-top: 200px;
+}
